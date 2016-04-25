@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiflacciop02kellgoog_0002.png"; bbox 0 0 3225 5000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1816 880 2350 887">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1816 880 2350 887">
+     <span class='ocr_line' id='line_1_1' title="bbox 1816 880 2350 887; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1816 880 2350 887; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1089 2559 1843 2621">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1089 2559 1843 2621">
+     <span class='ocr_line' id='line_1_2' title="bbox 1089 2559 1843 2621; baseline -0.007 0"><span class='ocrx_word' id='word_1_2' title='bbox 1089 2561 1441 2621; x_wconf 60' lang='lat' dir='ltr'>LfflRARY</span> <span class='ocrx_word' id='word_1_3' title='bbox 1501 2561 1609 2618; x_wconf 69' lang='lat' dir='ltr'><strong>[JF</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1669 2559 1843 2617; x_wconf 87' lang='lat' dir='ltr'><strong>THE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 776 2729 2151 2826">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 776 2729 2151 2826">
+     <span class='ocr_line' id='line_1_3' title="bbox 776 2729 2151 2826; baseline -0.012 1"><span class='ocrx_word' id='word_1_5' title='bbox 776 2745 1357 2826; x_wconf 65' lang='lat' dir='ltr'>CLASSICAL</span> <span class='ocrx_word' id='word_1_6' title='bbox 1421 2729 2151 2821; x_wconf 61' lang='lat' dir='ltr'><strong>DEPARTMENT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 3225 4958">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 3225 4958">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 3225 4958; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 3225 4958; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
